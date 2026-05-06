@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Recognition AI",
+  "description": "A machine learning application for identifying fruits based on features or photos using scikit-learn and Gemini AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}

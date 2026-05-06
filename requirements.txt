@@ -1,7 +1,6 @@
-# Requirements for Python backend
 fastapi
 uvicorn
-joblib
-numpy
-scikit-learn
 pillow
+numpy
+tensorflow
+python-multipart
